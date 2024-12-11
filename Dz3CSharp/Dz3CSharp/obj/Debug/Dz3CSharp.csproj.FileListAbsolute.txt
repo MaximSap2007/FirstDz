@@ -1,0 +1,7 @@
+C:\Users\123321\source\repos\Dz3CSharp\Dz3CSharp\bin\Debug\Dz3CSharp.exe.config
+C:\Users\123321\source\repos\Dz3CSharp\Dz3CSharp\bin\Debug\Dz3CSharp.exe
+C:\Users\123321\source\repos\Dz3CSharp\Dz3CSharp\bin\Debug\Dz3CSharp.pdb
+C:\Users\123321\source\repos\Dz3CSharp\Dz3CSharp\obj\Debug\Dz3CSharp.csproj.AssemblyReference.cache
+C:\Users\123321\source\repos\Dz3CSharp\Dz3CSharp\obj\Debug\Dz3CSharp.csproj.CoreCompileInputs.cache
+C:\Users\123321\source\repos\Dz3CSharp\Dz3CSharp\obj\Debug\Dz3CSharp.exe
+C:\Users\123321\source\repos\Dz3CSharp\Dz3CSharp\obj\Debug\Dz3CSharp.pdb

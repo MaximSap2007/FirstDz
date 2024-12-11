@@ -1,0 +1,7 @@
+C:\Users\123321\source\repos\Dz2CSharp\Dz2CSharp\bin\Debug\Dz2CSharp.exe.config
+C:\Users\123321\source\repos\Dz2CSharp\Dz2CSharp\bin\Debug\Dz2CSharp.exe
+C:\Users\123321\source\repos\Dz2CSharp\Dz2CSharp\bin\Debug\Dz2CSharp.pdb
+C:\Users\123321\source\repos\Dz2CSharp\Dz2CSharp\obj\Debug\Dz2CSharp.csproj.AssemblyReference.cache
+C:\Users\123321\source\repos\Dz2CSharp\Dz2CSharp\obj\Debug\Dz2CSharp.csproj.CoreCompileInputs.cache
+C:\Users\123321\source\repos\Dz2CSharp\Dz2CSharp\obj\Debug\Dz2CSharp.exe
+C:\Users\123321\source\repos\Dz2CSharp\Dz2CSharp\obj\Debug\Dz2CSharp.pdb
